@@ -1,28 +1,21 @@
-== README
+== DEMO PIN BOARD WEBSITE
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+---------------------------------------
+ Ruby version: ruby 2.2.2
+ Rails version: Rails 4.2.4
 
-Things you may want to cover:
+= For Employers
 
-* Ruby version
+This is a demo rails app just to show my skills with ruby on rails.
+It mimics Pinterest's board and has a basic user authentication.
+Also uploading pins and upvoting them are options.
 
-* System dependencies
+<h3>Gems</h3>
 
-* Configuration
+HAML, Bootstrap, Simple_form, Devise, Paperclip, Masonry-rails and Acts_as_votable
 
-* Database creation
+Database
 
-* Database initialization
+sqlite3
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Website
