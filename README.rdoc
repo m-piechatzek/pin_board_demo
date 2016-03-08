@@ -10,12 +10,14 @@ This is a demo rails app just to show my skills with ruby on rails.
 It mimics Pinterest's board and has a basic user authentication.
 Also uploading pins and upvoting them are options.
 
-<h3>Gems</h3>
+== Gems
 
 HAML, Bootstrap, Simple_form, Devise, Paperclip, Masonry-rails and Acts_as_votable
 
-Database
+== Database
 
 sqlite3
 
-Website
+== Website View
+
+...
